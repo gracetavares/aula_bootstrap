@@ -1,0 +1,37 @@
+body{
+    font: 20px, Arial, Sans-serif;
+}
+
+.navbar{
+    background: #8c8ca2;
+}
+
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.scientific_name {
+    font-size: 10px;
+    font-style: italic;
+    color:  #273746 
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+
+.parceiros {
+    background: #d5d8dc;
+
+}
+
+
